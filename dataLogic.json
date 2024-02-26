@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "fname": "ola",
+        "lname": "Haggag",
+        "age": 23,
+        "city": "Cairo"
+    },
+    {
+        "id": 3,
+        "fname": "Mohamed",
+        "lname": "Ahmed",
+        "age": 30,
+        "city": "Cairo"
+    },
+    {
+        "id": 5,
+        "fname": "eman",
+        "lname": "Ahmed",
+        "age": 35,
+        "city": "Cairo"
+    },
+    {
+        "id": 7,
+        "fname": "Alia",
+        "lname": "Ahmed",
+        "age": 35,
+        "city": "Cairo"
+    },
+    {
+        "id": 9,
+        "fname": "Sara",
+        "lname": "mohamed",
+        "age": 50,
+        "city": "Cairo"
+    },
+    {
+        "id": 10,
+        "fname": "Salma",
+        "lname": "mohamed",
+        "age": 22,
+        "city": "Alexandria"
+    }
+]
